@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Religio militis a sermon preached to the artillery-company, October 24, 1672, at St. Michaels in Cornhil / by John Meriton, D.D.</title>
+            <author>Meriton, John, 1636-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50682</idno>
+            <idno type="STC">Wing M1820</idno>
+            <idno type="STC">ESTC R43445</idno>
+            <idno type="EEBO-CITATION">27647569</idno>
+            <idno type="OCLC">ocm 27647569</idno>
+            <idno type="VID">110150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110150)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1729:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Religio militis a sermon preached to the artillery-company, October 24, 1672, at St. Michaels in Cornhil / by John Meriton, D.D.</title>
+                  <author>Meriton, John, 1636-1704.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound, with slight loss of text.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  John I, 7 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110150:1" rendition="simple:additions"/>
+            <p>RELIGIO MILITIS.</p>
+            <p>A SERMON Preached to the Artillery-Company, October 24, 1672. At St. <hi>Michaels</hi> in <hi>Cornhil.</hi>
+            </p>
+            <p>By <hi>JOHN MERITON,</hi> D. D.</p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Ralph Smith</hi> at the Sign of the <hi>Bible</hi> under the Piazzo of the <hi>Royal Exchange</hi> in <hi>Cornhil,</hi> 1672.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:110150:2"/>
+            <pb facs="tcp:110150:2"/>
+            <head>To the Right Worſhipful, and my much Honoured Friends, Sir <hi>Richard Ford,</hi> Knight, Sir <hi>James Edwards</hi> Knight, <hi>Dannet Forth</hi> Eſquire, Sir <hi>Robert Clay<g ref="char:EOLhyphen"/>ton</hi> Knight, Aldermen; Lieutenant Col. <hi>Nicholas Osborne,</hi> Major <hi>John Graunt,</hi> Major <hi>Thomas Beckford,</hi> Major <hi>Thomas Cowden,</hi> Late Stewards of the <hi>Artillery<g ref="char:EOLhyphen"/>Company.</hi>
+            </head>
+            <opener>
+               <salute>Worthy Sirs,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Was much ſurprized with your deſire, that this plain Sermon might be Printed: Nor can I yet in cooler thoughts conje<g ref="char:EOLhyphen"/>cture (though its ſhortneſs, <hi>the beſt com<g ref="char:EOLhyphen"/>mendation of bad Muſick,</hi> had poſſibly gain<g ref="char:EOLhyphen"/>edit a Favourable Acceptance from the Pul<g ref="char:EOLhyphen"/>pit) what might incline you to deſire its further Publication; unleſs (for I more va<g ref="char:EOLhyphen"/>lue
+<pb facs="tcp:110150:3"/>
+your Judgments, than fondly to imagine you could think it worthy) you had a mind to try, whether, in an Age, when many talk of what they know not how to practiſe, I could ſhew either <hi>Courage</hi> or <hi>Obedience,</hi> that had diſcourſed of them: Of both which I have here given ſome Proof. Of <hi>Courage,</hi> that having, for one Paſſage, full of <hi>Truth</hi> and <hi>Innocence, paſſed the Pikes,</hi> I have ad<g ref="char:EOLhyphen"/>ventured once more to run <hi>the Gantlope;</hi> and of <hi>Obedience,</hi> that like the <hi>Centurions Servant,</hi> when you ſaid <hi>Do this,</hi> I have done it; to approve my ſelf,</p>
+            <closer>
+               <salute>GENTLEMEN,</salute>
+               <signed>Your Ready and Faithful Servant <hi>JOHN MERITON.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:110150:3"/>
+            <epigraph>
+               <bibl>Joſh. 1. 7.</bibl>
+               <q>Only be thou ſtrong, and very Coura<g ref="char:EOLhyphen"/>gious, that thou mayeſt obſerve to do according to all the Law, which <hi>Moſes</hi> my Servant commanded thee.</q>
+            </epigraph>
+            <p>THeſe words are part of <hi>Joſhua</hi>'s <hi>Commiſſion,</hi> that God gave him, when in the room of his ſervant <hi>Moſes</hi> lately Deceaſed, he appointed him his <hi>Captain General,</hi> for the conduct of <hi>Iſrael</hi> into the promiſed <hi>Canaan.</hi> They
+<pb n="2" facs="tcp:110150:4"/>
+had all along, in their March through the Wilderneſs, met with great oppoſition from the neighbouring Countrey's, the <hi>Amalekites,</hi> the <hi>Edomites,</hi> the <hi>Moabites,</hi> taking the Alarm, Muſtered up their For<g ref="char:EOLhyphen"/>ces, and did all they could, both by Am<g ref="char:EOLhyphen"/>buſh and Skirmiſh to obſtruct their paſ<g ref="char:EOLhyphen"/>ſage, and make it troubleſome and hazar<g ref="char:EOLhyphen"/>dous: And looking forward into <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> they had reaſon to look for more and more formidable Enemies; the <hi>Amo<g ref="char:EOLhyphen"/>rites,</hi> the <hi>Hittites,</hi> the <hi>Perizzites,</hi> the <hi>Hi<g ref="char:EOLhyphen"/>vites,</hi> the <hi>Jebuſites,</hi> the <hi>Canaanites,</hi> being all of them in antient poſſeſſion of the Countrey, and withal ſtrangers to God, were not like ſo far to acknowledg his right, as eaſily, and without blows to quit their own to theſe new Occupiers. So that in theſe circumſtances, God ſaw it needful to animate his ſervant <hi>Joſhua,</hi> and put life and metal into him, for carrying on the difficult enterpriſe; and this he doth, by telling him, he will be with him,<note place="margin">Verſe 5.</note> 
+               <hi>As I was with Moſes, I will be with thee,</hi>
+               <pb n="3" facs="tcp:110150:4"/>
+               <hi>I will not fail thee, nor for ſake thee.</hi> Some<g ref="char:EOLhyphen"/>what like <hi>Caeſars Venite</hi> to his Souldiers, (though infinitely more encouraging, for it was the mouth of the Lord of Hoſts that ſpoke it) Come on, and I'll go along with thee. And he muſt be ſtrangely faint-hearted and cowardly, that could let his ſpirit ſink, his face grow pale, or his arm ſhake, with ſuch a ſecond at his right hand.</p>
+            <p>Which preſence of God with <hi>Joſhua,</hi> (though a mighty ſupport) was by no means to be interpreted as a diſcharge from his own diligence and duty, as though all the work were now taken off his hands, and there were nothing left for him to do, <hi>No ſuch matter!</hi> It was rather to excite in him a Maſculine and Heroick bravery of ſpirit, as <hi>Paulus Emilius</hi> pray<g ref="char:EOLhyphen"/>ed to <hi>Hercules</hi> for Victory with a Spear in his hand, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">
+                  <hi>Plutarch in vit.</hi>
+               </note> God engaged himſelf not to forſake his ſervant <hi>Joſhua,</hi> and thereby obliged him to look to it, that he was neither forſaken
+<pb n="4" facs="tcp:110150:5"/>
+of his courage, nor his conſcience, <hi>Only be thou ſtrong, and very couragious, that thou mayeſt obſerve to do according to all the Law, which</hi> Moſes <hi>my ſervant comman<g ref="char:EOLhyphen"/>ded thee.</hi>
+            </p>
+            <p>In which words, as an Epitome, and ſhort abridgment of his <hi>Military Diſci<g ref="char:EOLhyphen"/>pline,</hi> God charges upon <hi>Joſhua</hi> two things, that would in all things render him a gallant and compleat Souldier.</p>
+            <p n="1">1. Valour and Courage, <hi>Only be thou ſtrong and very Couragious.</hi>
+            </p>
+            <p n="2">2. Obedience, and a compliance with the Divine Law, <hi>That thou mayeſt obſerve to do, &amp;c.</hi>
+            </p>
+            <p n="1">1. <hi>Firſt, Valour and Courage:</hi> The phraſe is doubled, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and ſo is the command too, in this and the foregoing verſe, that may denote, as the greater ſtrictneſs of the charge, ſo that double courage and fortitude that is neceſſary it make an accompliſht warriour,</p>
+            <lg>
+               <l>The one Natural, as a Souldier.</l>
+               <l>The other Spiritual, as a Saint.</l>
+            </lg>
+            <p n="1">
+               <pb n="5" facs="tcp:110150:5"/>1. Natural courage, which is a ſtrength and ſtoutneſs of ſpirit, fearleſly to en<g ref="char:EOLhyphen"/>counter hazards and hardſhips, which as it was neceſſary for <hi>Joſhua</hi> in his circum<g ref="char:EOLhyphen"/>ſtances, being to conduct a mutinous quarrelſome people, and combat warlike and combined enemies; So is it greatly requiſite in every Souldier, whether in, or under command, his Art and Profeſſion being to converſe with Sword and Pike, Blows and Bullets, Wounds, and Death in a thouſand ſhapes, and all its grim and diſmal appearances, he had need wear bet<g ref="char:EOLhyphen"/>ter armor within his breaſt, than that which he puts upon it. Neither the Sword, nor the Sword-man is right metal, whoſe ſoft edge is ſoon blunted, and rebated, with a few hard ſtrokes, and that puſilla<g ref="char:EOLhyphen"/>nimous tenderneſs for life and limbs, that in another man is eaſily overlook't, and paſs'd by as a pardonable infirmity, in the Souldier amounts to an heinous crime, as having in it the baſeneſs of treachery, and being falſe to his truſt and undertaking.
+<pb n="6" facs="tcp:110150:6"/>
+When death, and dangers appear in their moſt frightful, ghaſtly complexion, and threaten high, the true Souldier, with an unappaled courage, makes as brisk a re<g ref="char:EOLhyphen"/>ply as <hi>Brutus</hi> did once to his <hi>Malus Ge<g ref="char:EOLhyphen"/>nius,</hi>
+               <note place="margin">
+                  <hi>Plut. in vit.</hi>
+               </note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Thou ſhalt ſee me at</hi> Philippi, <hi>A match, Ile meet thee.</hi> What a brave ſpeech was that of <hi>Joab</hi> to his brother <hi>Abiſhai,</hi> when encompaſſed with an huge and formidable Army of<note place="margin">2 Sam. 10. 12.</note> 
+               <hi>Syrians, Be of good courage, and let us play the men, for our people, and for the Ci<g ref="char:EOLhyphen"/>ties of our God.</hi> And upon the like oc<g ref="char:EOLhyphen"/>caſion <hi>Gentlemen,</hi> the Honour of your <hi>King,</hi> the ſafety of your <hi>Countrey,</hi> the hap<g ref="char:EOLhyphen"/>pineſs and flouriſhing proſperity of this <hi>City</hi> at ſtake, I doubt not in you ſuch a generous and maſculine ſpirit; But God grant there never be greater cauſe to try your Courage, than there is to queſtion it.</p>
+            <p n="2">2. <hi>Secondly, A Spiritual Courage</hi> is required that is ſuitable unto Saints; to this the Apoſtle preſſes the <hi>Epheſians, Be</hi>
+               <note place="margin">Chap. 6. 10.</note> 
+               <hi>ſtrong in the Lord, and in the power of his</hi>
+               <pb n="7" facs="tcp:110150:6"/>
+               <hi>might,</hi> and there are three things wherein this ſtrength and magnanimity is eſpeci<g ref="char:EOLhyphen"/>ally to be exerciſed,</p>
+            <list>
+               <item>1. <hi>Enduring Afflictions.</hi>
+               </item>
+               <item>2. <hi>Reſiſting Temptations.</hi>
+               </item>
+               <item>3. <hi>Subduing and mortifying corrupt Affections.</hi>
+               </item>
+            </list>
+            <p>In all which points, there is ſo much the more courage to be uſed, becauſe the enemies to be conquered, the <hi>World,</hi> the <hi>Devil,</hi> and the <hi>Fleſh,</hi> are moſt pernicious and deadly, and the Crown prepared for, and promiſed to the conqueſt, is moſt rich and glorious. So that what God hath (in the Text) ſaid to <hi>Joſhua,</hi> is par<g ref="char:EOLhyphen"/>ticularly to be applyed to every <hi>Chriſtian,</hi> as if he were mentioned by name; and ſo much the rather, becauſe the Apoſtle hath already done it to his hand, <hi>He hath ſaid,</hi>
+               <note place="margin">Heb. 13. 5.</note> 
+               <hi>I will never leave thee, nor forſake thee:</hi> And he hath ſaid, <hi>Be thou ſtrong and ve<g ref="char:EOLhyphen"/>ry couragious.</hi>
+            </p>
+            <p n="1">1. <hi>Firſt, Be ſtrong and very couragious to endure Afflictions.</hi> Every good man
+<pb n="8" facs="tcp:110150:7"/>
+eſpecially is in this world expoſed to croſſes, and troubles, and it well becomes him, with a mighty and magnanimous pa<g ref="char:EOLhyphen"/>tience and ſubmiſſion to Gods will, to bear all his burdens, and take them, as the Ca<g ref="char:EOLhyphen"/>mel doth his load from his Maſter, upon his knees, <hi>ſtrengthened with all might, un<g ref="char:EOLhyphen"/>to</hi>
+               <note place="margin">Col. 1. 11.</note> 
+               <hi>all patience, and long-ſuffering with joyfulneſs.</hi> The patience and long-ſuf<g ref="char:EOLhyphen"/>fering of God, is founded in his Allmigh<g ref="char:EOLhyphen"/>ty<note place="margin">Numb. 14. 17, 18.</note> power, <hi>Let the power of my Lord be great,</hi> (ſaith <hi>Moſes</hi> in the behalf of <hi>Iſrael</hi>) <hi>according as thou haſt ſpoken, ſaying, the Lord is long ſuffering.</hi> And when God is pleaſed to ſend croſſes, and calamities, all our might, and power is to be exerci<g ref="char:EOLhyphen"/>ſed, in Patience and Long-ſuffering.<note place="margin">2 Tim. 3. 3.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 'tis Saint <hi>Pauls</hi> word to <hi>Timo<g ref="char:EOLhyphen"/>thy,</hi> endure hardneſs; And it is urged with this Argument, as he would approve himſelf <hi>a good Souldier of Jeſus Chriſt,</hi>
+               <note place="margin">
+                  <hi>Tert<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll.</hi>
+               </note> 
+               <hi>Quid facis in Christi Militiâ delicate Mi<g ref="char:EOLhyphen"/>les?</hi> What makes the nice, and the deli<g ref="char:EOLhyphen"/>cate Souldier Marching under Chriſts
+<pb n="9" facs="tcp:110150:7"/>
+Banners? How low, and hard, and full of croſſes ſoever thy condition may be in this world, <hi>Courage man!</hi> to give ground by a froward impatience, and pettiſh de<g ref="char:EOLhyphen"/>ſpondency, is a certain ſign of an impo<g ref="char:EOLhyphen"/>tent cowardize and feeble-mindedneſs, for <hi>if thou faint in the day of adverſity, thy</hi>
+               <note place="margin">Prov. 14. 18.</note> 
+               <hi>ſtrength is ſmall.</hi>
+            </p>
+            <p n="2">2. <hi>Secondly, Be ſtrong and very coura<g ref="char:EOLhyphen"/>gious to reſiſt temptations.</hi> Which ſo long as we are in this world, the Devils walk and Principality; and ſo long as that bloud-thirſty <hi>Abaddon</hi> hath malice, and ſubtilty, VVe muſt never look to be freed from, for as a <hi>roaring Lion he walk<g ref="char:EOLhyphen"/>eth</hi>
+               <note place="margin">1 Pet. 5. 8.</note> 
+               <hi>about, ſeeking whom he may devour.</hi> He tempts to Atheiſm and infidelity, pride and malice, hypocriſie, covetouſneſs and ſenſuality, And there is no ſafety in truce, parly, or complyance, but in a ſtout and reſolute reſiſtance, and that Victory that certainly follows upon it; for, <hi>reſist</hi>
+               <note place="margin">Jum. 4. 7.</note> 
+               <hi>the Devil, and he will ſlee from you;</hi> yet, as erranda Coward as he is, he had the
+<pb n="10" facs="tcp:110150:8"/>
+bold and daring hardineſs to aſſault our Lord Chriſt, in that famous <hi>Duel</hi> and <hi>En<g ref="char:EOLhyphen"/>counter, Matth.</hi> 4. but its obſervable, how the <hi>Captain of our Salvation,</hi> to ſet us the pattern of a valiant and vigorous reſiſtance, pickt up his <hi>fiery darts,</hi> and threw them in his face, <hi>It is written</hi> (ſaith the Devil) <hi>he ſhall give his Angels charge over thee; and it's written</hi> (ſaith Chriſt) <hi>thou ſhalt not tempt the Lord thy God.</hi> The Devil will never be worſted by a Meaky cowardly Milkſop, and you muſt either overcome, or fall into his Clutches, the Apoſtle bids rouze up your courage, and ſtand to your Arms, <hi>Put on the whole</hi>
+               <note place="margin">Epheſ. 6. 11, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <hi>armour of God, that ye may be able to ſtand againſt the wiles of the Devil, for we wre<g ref="char:EOLhyphen"/>ſtle not againſt Fleſh and Bloud, but a<g ref="char:EOLhyphen"/>gainſt Principalities, againſt Powers, a<g ref="char:EOLhyphen"/>gainſt the Rulers of the darkneſs of this world, againſt ſpiritual wickedneſs, in high places.</hi> And though a man had ſtrength and courage enough to rout whole troops and ſquadrons of other enemies in the
+<pb n="11" facs="tcp:110150:8"/>
+field, he were like to bear away ſad and mournful trophies, if he, whoſe name is legion, makes him Priſoner, and leads him captiveat his will.</p>
+            <p n="3">3. <hi>Thirdly, Be ſtrong and very coura<g ref="char:EOLhyphen"/>gious in the ſubduing, and mortifying of corrupt affections.</hi> Such as are Pride, and Paſſion, malice, earthly-mindedneſs, ambition, hypocriſie, wrath, and revenge, the worſt enemies we have; and were it not for theſe, the <hi>Devil</hi> would more eaſily be vanquiſh'd. <hi>Samſon</hi> ſlew the <hi>Phili<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ins,</hi> heaps upon heaps, and they could never have wronged him, had not <hi>Deli<g ref="char:EOLhyphen"/>lah,</hi> that lay in his boſome, betrayed him. Againſt theſe therefore we muſt ſtir up our whole ſtrength and courage, to ſmite them under the fifth rib. Theſe remain<g ref="char:EOLhyphen"/>ing luſts in good men, not wholly to be rooted out in this life, are like that rem<g ref="char:EOLhyphen"/>nant of <hi>Canaanites,</hi> that God left to prove <hi>Iſrael,</hi> to teach them War, and train them up in the Art-Military; and with whom he commanded them never to make Peace,
+<pb n="12" facs="tcp:110150:9"/>
+or a League of Friendſhip. And verily the crucifying of a darling luſt, is an act of no leſs courage, then it was in <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> at Gods command to put a ſacrifi<g ref="char:EOLhyphen"/>cing-knife to the throat of his beloved <hi>Iſaac. David</hi> got more true renown, by conquering a paſſionate revenge, in the caſe of <hi>Saul</hi> and <hi>Shimei,</hi> than in cutting off the head of <hi>Goliab.</hi> And <hi>Solomon</hi> hath laid it down for a rule (nor though a man of Peace, hath he at all undervalued<note place="margin">Prov. 16. 32.</note> Martial exploits and atchievements) <hi>He that ruleth his ſpirit</hi> (<hi>i. e.</hi> keeps his ſoul from being invaded by exorbitant luſts and paſſions) <hi>is a better man</hi> (<hi>i. e.</hi> ſhew's more Man-hood and gallantry of mind) <hi>than he that tak<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a City.</hi> God hath ſet up his Royal Standard, and on purpoſe Proclaimed open hoſtility againſt thoſe inſolent rebels which we harbour in our boſome; that we ſhould draw our ſwords, and that not only to brandiſh them, with a flouriſh, or play a Prize, and ſtrike with a falſe edge, but be at ſharps, run them
+<pb n="13" facs="tcp:110150:9"/>
+through, ſlaſh and mangle them from head to foot, that we ſhould give fire, and ſpend our Powder and Bullet at home. In a word, that without any quarter given, we ſhould ſerve them as that wiſe woman did <hi>Sheba,</hi> at <hi>Abel</hi> of <hi>Bethmaacah,</hi> throw<note place="margin">2 Sam. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 21.</note> the Traytors heads over the wall. And thus much for the firſt part of the charge, <hi>Be ſtrong and very couragious.</hi>
+            </p>
+            <p n="2">2. <hi>The Second</hi> follows, that of <hi>obedi<g ref="char:EOLhyphen"/>ence,</hi> and a complyance with the Divine Law, <hi>That thou mayeſt obſerve to do accor<g ref="char:EOLhyphen"/>ding to all the Law, which</hi> Moſes <hi>my ſer<g ref="char:EOLhyphen"/>vant commanded thee.</hi> Men of a <hi>Milita<g ref="char:EOLhyphen"/>ry Profeſſion,</hi> are concerned ſeriouſly to mind matters of <hi>Religion;</hi> A faithful pun<g ref="char:EOLhyphen"/>ctual obſervance of the divine Law, is both neceſſary for a Souldier: And that which adds to him the greateſt luſtre and orna<g ref="char:EOLhyphen"/>ment. <hi>Joſhua</hi> was a great Commander, and yet not ſo abſolute, but that he muſt acknowledg a Superiour Lord, and take Law from God, and <hi>Moſes</hi> in his name. The Law of <hi>Moſes</hi> was then the only Ma<g ref="char:EOLhyphen"/>niſeſtation
+<pb n="14" facs="tcp:110150:10"/>
+of Gods will, ſuperadded to the originally imprinted Law of Nature: And although God hath to us amplified it in the Goſpel, and reprinted it in a fairer Edition, yet that was to be the rule and meaſure of his actings, and he was thence to learn all his poſtures, not varying from it, by exceſs or defect, or as the Text hath it, in a Military phraſe, <hi>not turning</hi> (or wheeling about) <hi>to the right or to the left.</hi> There's no ſuch compleat armour for a Souldier, as that which Saint <hi>Paul</hi> re<g ref="char:EOLhyphen"/>commends out of Gods Magazine, the<note place="margin">Epheſ. 6.</note> 
+               <hi>Girdle of truth, the breſt-plate of righte<g ref="char:EOLhyphen"/>ouſneſs, the ſhield of Faith, the helmet of Salvation, the Sword of the Spirit.</hi> And there's a walking orderly <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> beyond that of marching rank and file. Did God of old take ſuch order, that the <hi>Prieſt</hi> (whoſe office and imployment was the killing of Beaſts) ſhould be a man of holineſs, and can we think he'l allow the <hi>Souldier</hi> in his Profeſſion of killing men, to be a ſtranger to it? There is indeed a
+<pb n="15" facs="tcp:110150:10"/>
+Licentious, fanciful, and Fanatical Gene<g ref="char:EOLhyphen"/>ration of men, that ſay the Profeſſion of a Souldier is now inconſiſtent with Religi<g ref="char:EOLhyphen"/>on, and the ſtate of Chriſtianity. All things are under the Goſpel to be acted with tenderneſs and indulgence, love and lenity: And if they could with theſe fine ſmooth ſayings, perſwade others to lay down their Arms, they themſelves were like to be the firſt, that without ſcruple would run to take them up. The Foxes, in the Fable, with ſuch a plauſible and in<g ref="char:EOLhyphen"/>ſinuating artifice, would have drawn the ſheep into a fair and kind correſpon<g ref="char:EOLhyphen"/>dence, only there was a ſort of rugged, and ſcandalous creatures, with ſharp teeth, called Shepherds Dogs, that ſtood in the way, and obſtructed the Peace, let them all be but firſt knockt on the head, and matters ſhould then be menaged kindly and lovingly, to their own hearts content. They bring Arguments indeed, pitiful ſlender ones (God knows) to prove, that Religion forbids the uſe of the Sword, ſuch
+<pb n="16" facs="tcp:110150:11"/>
+as it would hardly be worth while for me to anſwer; Swordmen themſelves may better do it, by a Religious deportment and converſation, the beſt and moſt effe<g ref="char:EOLhyphen"/>ctual confutation of their feeble cavils, being like that Philoſophers walking up and down the room ſilently to refell his Arguments, that with mighty noiſe and buſtle, would needs prove there was no ſuch thing as motion. One of the great excellencies of Religion is, that as it con<g ref="char:EOLhyphen"/>duces to mens eternal intereſt, and makes them happy in another world. So 'tis the accompliſhment and perfection of e<g ref="char:EOLhyphen"/>very ſtate and condition in this. This makes the Good Prince and the Good Subject, the good Husband, the good VVife, the good Maſter, the good Servant, the good Merchant, Mariner, Husbandman, Lawyer, Phyſician, yea and good Souldier too; unto whom (that I may ſpeak more particularly) it adds this ſixfold excel<g ref="char:EOLhyphen"/>lency and advantage.</p>
+            <list>
+               <pb n="17" facs="tcp:110150:11"/>
+               <item>1. <hi>Skill.</hi>
+               </item>
+               <item>2. <hi>Courage.</hi>
+               </item>
+               <item>3. <hi>Safety.</hi>
+               </item>
+               <item>4. <hi>Honour.</hi>
+               </item>
+               <item>5. <hi>Succeſs.</hi>
+               </item>
+               <item>6. <hi>A Publick and beneficial uſe<g ref="char:EOLhyphen"/>fulneſs.</hi>
+               </item>
+            </list>
+            <p n="1">1. <hi>Firſt, Religion</hi> adds to the Souldier the advantage of <hi>Skill.</hi> How expert was <hi>David</hi> when a youth: who when <hi>Goliah,</hi> his proud Enemy, deſpiſed the poor ſtrip<g ref="char:EOLhyphen"/>ling, as a raw and undiſciplin'd novice, ſlung a ſtone into his forehead, and laid that mountain of fleſh flat at his foot; would you know how he became ſo dex<g ref="char:EOLhyphen"/>trous, and with ſuch art did the exploit, he himſelf tells you, that God, to the ob<g ref="char:EOLhyphen"/>ſervance and pleaſing of whom, he appli<g ref="char:EOLhyphen"/>ed himſelf with a ſtudious care, and ut<g ref="char:EOLhyphen"/>moſt diligence, had train'd him up in his Artillery-Ground. <hi>The Lord my ſtrength</hi>
+               <note place="margin">Pſal. 144. 1.</note> 
+               <hi>teacheth my hands to War, and my fingers to fight.</hi> And at another time, when he over-reacht, and out-witted <hi>Achito<g ref="char:EOLhyphen"/>phel,</hi>
+               <pb n="18" facs="tcp:110150:12"/>
+countermin'd, and defeated the cunning ſtratagem of that profound ſhrewd pated Politician; it was not ſo much his own Mother-wit, as a Religious care to pleaſe God, that made him his Arts<note place="margin">Pſal. 119. 98.</note> Maſter. <hi>Thou</hi> (ſayes he) <hi>through thy Commandments, haſt made me wiſer than mine enemies, for they are ever with me.</hi> He that has the higheſt and principal wiſ<g ref="char:EOLhyphen"/>dome, to go beyond the <hi>Devil</hi> in his plots, and baffle that bloody enemy of ſouls in his miſchievous deſigns <hi>(and the</hi>
+               <note place="margin">Job 28. ult.</note> 
+               <hi>fear of the Lord that is wiſdom, and to de<g ref="char:EOLhyphen"/>part from evil is underſtanding)</hi> is the likelieſt perſon, by the guidance, and direction of the <hi>only wiſe God,</hi> to blow up and ſcatter the petty projects of fleſhly oppoſites, that compar'd with that ſpiri<g ref="char:EOLhyphen"/>tual adverſary, are the acuteſt of them, thick-ſcull'd and heavy-headed enemies. Atheiſm, profaneſs, and irreligion, blaſt the beſt laid deſigns, and lead the ſubtle Artiſts and contrivers of them, into traps,<note place="margin">Job 5. 12.</note> and unſeen precipices. <hi>God diſappoint<g ref="char:EOLhyphen"/>eth</hi>
+               <pb n="19" facs="tcp:110150:12"/>
+               <hi>the devices of the crafty, ſo that their hands cannot perform their enterpriſe,</hi> they are ſhort and defective, both in the <hi>Theory</hi> and the <hi>Practice,</hi> their fine ſpun Policies come to nothing, and break like the Spi<g ref="char:EOLhyphen"/>ders web. And when any exploit is to be done, they are <hi>fumble-fiſted,</hi> and their hand hangs in their Glove; <hi>the ſtout<g ref="char:EOLhyphen"/>hearted</hi>
+               <note place="margin">Pſal. 76. 7.</note> 
+               <hi>are aſleep</hi> (ſaith the Pſalmiſt) <hi>and the men of might have not found their hands:</hi> But what the Prophet ſayes of the Husbandman, holds true of the up<g ref="char:EOLhyphen"/>right, obedient, and conſcientious Soul<g ref="char:EOLhyphen"/>dier, <hi>his God doth inſtruct him to diſcreti<g ref="char:EOLhyphen"/>on,</hi>
+               <note place="margin">Iſa. 28. 26.</note> 
+               <hi>and doth teach him.</hi>
+            </p>
+            <p n="2">2. Secondly, <hi>Religion</hi> gives the Soul<g ref="char:EOLhyphen"/>dier the advantage of <hi>Courage and bold<g ref="char:EOLhyphen"/>neſs.</hi> Nothing doth ſo fix and conſoli<g ref="char:EOLhyphen"/>date the mind, to a fearleſs and undaun<g ref="char:EOLhyphen"/>ted reſolution in dangers, as its being poſ<g ref="char:EOLhyphen"/>ſeſſed and principled with Gods holy fear, for <hi>in the fear of the Lord there is</hi>
+               <note place="margin">Prov. 14. 26.</note> 
+               <hi>ſtrong confidence. Clavus clavum trudit,<note place="margin">Nieremberg.</note> omnes timor Dei pellit timores. David</hi>
+               <pb n="20" facs="tcp:110150:13"/>
+in the 112. <hi>Pſalm,</hi> deſeribes a man of a brave and bold ſpirit, that <hi>he ſhall not be</hi>
+               <note place="margin">Ver. 6, 7.</note> 
+               <hi>mov<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, nor afraid of evil tydings;</hi> and who this man of courage and confidence is, he tells us, one that the world would little dream of, the divine Coward, <hi>one</hi>
+               <note place="margin">Ver. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>that feareth the Lord, and greatly de<g ref="char:EOLhyphen"/>lighteth in his Commandments.</hi> And when the People in <hi>Samuel</hi>'s dayes, were by a thunder in Wheat-Harveſt, ſmitten with a <hi>pannick</hi>-fear, and ſcared almoſt out of their wits, it was excellent and proper counſel that he gave them (though to ſome it may look like a contradiction) <hi>fear</hi>
+               <note place="margin">1 Sam. 12. 20, &amp; 24.</note> 
+               <hi>not, only fear the Lord, and ſerve him in truth, with all your heart.</hi> This we have ſuggeſted in the Text, <hi>Be ſtrong and very Couragious;</hi> How ſo? <hi>Obſerve to do ac<g ref="char:EOLhyphen"/>cording to all the Law which</hi> Moſes <hi>my ſervant commanded thee.</hi>
+            </p>
+            <p>Vile men, of Atheiſtical, debauch'd principles and practices, <hi>Dammers and Sinkers,</hi> may rant and ſwagger, and when furniſhed with <hi>Pipe</hi> and <hi>Pot-Ammunition,</hi>
+               <pb n="21" facs="tcp:110150:13"/>
+pretend high to ſeats of Proweſs and Chi<g ref="char:EOLhyphen"/>valry, and might bear away great renown for Martial exploits, if (as when of old the Giants ſought it by fighting againſt the Gods) ſending defiances to heaven, and ſtorming it with full mouth'd Oaths, and Blaſphemies, would carry it, but however they may rufile, and look big, they can never be truly couragious, who carry that deadly enemy in their boſome, a guilty accuſing Conſcience, a diſmal Volume; which when it opens, more appales and diſpirits them, than the writing upon the wall did <hi>Belſhazzar,</hi> in his carowſing and drunken frolick; Conſcience, I ſay, that at the approach of death, uſes to awake and beat a frightful alarm, as old ſores ake and throb moſt at night to bedward, and there's nothing more like to make a white<g ref="char:EOLhyphen"/>liver'd Souldier, than that black-mouth'd accuſer, nor will any man ſneak baſely, and cowardly run his head in a hole, or be backward to venture his life in ſo good a cauſe as the ſaving of his Countrey, like
+<pb n="22" facs="tcp:110150:14"/>
+him that is madly bold and forward to venture his Soul, in ſo bad a one, as the<note place="margin">Prov. 28. 1.</note> ſatisfying of his luſts. <hi>The wicked flee</hi> (ſaith <hi>Solomon when no manpurſueth,</hi> he is haunted with ſo many walking Ghoſts in a guilty Conſcience, that he runs for his life, when there is nothing behind him but his own ſhadow; he is <hi>Al a mort</hi> with the ſhaking of the tops of a few reeds or thiſtles, as if they were the Pikes of an ar<g ref="char:EOLhyphen"/>med enemy, arrayed in Battalia; his heart ſinks to his heel, at the ruſling of the wind among the leaves, as if it brought the more certain News of his death, than the report of Musket or Canon. What a doughty combatant was <hi>Cain</hi> like to prove, when having armed and enraged his own Con<g ref="char:EOLhyphen"/>ſcience againſt him, by imbrewing his hands in the bloud of an innocent brother, he ſtood whining and puling with finger<note place="margin">Gen. 4. 14.</note> in eye, <hi>Every body that meets me will kill me? But the righteous is bold as a Lion.</hi> That ſaying of <hi>David</hi> was no flaſhy va<g ref="char:EOLhyphen"/>pouring huff, but the iſſue of an unſhaken
+<pb n="23" facs="tcp:110150:14"/>
+gallantry of Spirit, <hi>Though an Hoſt ſhould</hi>
+               <note place="margin">Pſal. 27. 3.</note> 
+               <hi>encamp againſt me, my heart ſhall not fear, though War ſhould riſe againſt me, in this will I be confident.</hi>
+            </p>
+            <p n="3">3. Thirdly, <hi>Religion</hi> gives the Souldier <hi>ſafety,</hi> and ſecures him againſt danger. It were the leſs advantageous to a man at arms, if it only put into him ſpirit and me<g ref="char:EOLhyphen"/>tal to attempt and encounter dangers, and there left him of the forlorn, without hope of a ſafe and honourable retreat, or a ſtrong hold for his defence and protecti<g ref="char:EOLhyphen"/>on, <hi>but the way of the Lord is ſtrength to</hi>
+               <note place="margin">Prov. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 29.</note> 
+               <hi>the upright.</hi> And let Swords claſh, and bullets fly thick, that man is out of harms way, and needs not flinch or fear colours, whoſe path is encompaſſed with a brazen wall. Holy <hi>David</hi> fighting upon great odds, againſt an whole Hoſt, was not more confident than ſecure; <hi>For in the time of</hi>
+               <note place="margin">Pſal. 27. 5.</note> 
+               <hi>trouble, he ſhall hide me in his Pavilion, in the ſecret of his Tabernacle ſhall be hide me, be ſhall ſet me up upon a rock.</hi> That is, a well fortiſied and impregnable Garri<g ref="char:EOLhyphen"/>ſon,
+<pb n="24" facs="tcp:110150:15"/>
+into which the Prophet <hi>Iſaiah</hi> puts the righteous perſon, and he ſeems parti<g ref="char:EOLhyphen"/>cularly to deſcribe the righteouſneſs of a<note place="margin">Iſai. 33. 15. 16.</note> Souldier, One that <hi>deſpiſeth the gain of oppreſſion, and ſtoppeth his ears from hear<g ref="char:EOLhyphen"/>ing of blood: He ſhall dwell on high, his place of defence ſhall be the munition of rocks, bread ſhall be given him, his waters ſhall be ſure:</hi> If enemies beleaguer him, and bring ropes and ſcaling ladders, they are all too ſhort, <hi>He dwells on high.</hi> If they bring Petards, and plant great Guns for Battery, all inſtruments of violence are (alaſs) too weak, to make a breach, and force an entrance, for <hi>his place of defence is the Munition of Rocks.</hi> And if per<g ref="char:EOLhyphen"/>haps deſpairing to ſtorm, they ſhall deſign to ſtarve him out of his ſtrong hold, that plot is like to fail, and come off as poorly as the other, for the man is as well ſtored with Victual as Ammunition, <hi>Bread ſhall be given him, his Waters ſhall be ſure. Gi<g ref="char:EOLhyphen"/>deon,</hi> a brave Souldier, when in obedience to God, he threw down <hi>Baals</hi> Altar, was
+<pb n="25" facs="tcp:110150:15"/>
+ſorely threatned, by a rude rabble of en<g ref="char:EOLhyphen"/>raged Idolaters, (And there is no madneſs like that of mens being mad for Religion) but God himſelf was of his guard, and gave him ſafe conduct, ſo that all their high bluſter of words proved meer Squibs and Crackers. And if it ſhall be ſaid, Religion is not alway the Souldiers de<g ref="char:EOLhyphen"/>fence; It was the hard hap of godly <hi>Jo<g ref="char:EOLhyphen"/>ſiah,</hi> and ſince that of many a good man, to be wounded and ſlain in the day of Bat<g ref="char:EOLhyphen"/>tel. I anſwer, God, when he ſees it beſt, delivers them either from, or out of dan<g ref="char:EOLhyphen"/>gers; or if neither of theſe, however at the long run he will infinitely reward them, ſo that, be the hazards and miſ<g ref="char:EOLhyphen"/>chiefs what they may, that they wade through, they are ſure, when all accounts are made up, not to come off loſers. Put the caſe, a <hi>General</hi> were able, (as we are ſure God is) to make his Souldiers ſhot<g ref="char:EOLhyphen"/>free, to cure the wounded, and quicken the dead, and at the head of his Army ſhould ſay before a Fight, <hi>Come on my ſtout hearts, fear nothing, He engage my honour,</hi>
+               <pb n="26" facs="tcp:110150:16"/>
+               <hi>that not a man of you ſhall be a loſer by this Battel.</hi> And yet when they fall on, and are at it <hi>Pell-mell:</hi> Some indeed are untouch't, but others loſe, either a leg or an arm, or are killed outright. Well! the Fight over, and the <hi>General</hi> ſurveying his Army, the firſt, that loſt never a drop of bloud, he rewards well for fighting, them that loſt their limbs, he makes fiſh<g ref="char:EOLhyphen"/>whole, and gives them what is better than a leg or an arm; the ſlain he raiſes to life after a moſt glorious manner, makes them all <hi>Captains and Colonels,</hi> and beſtows upon them places of honour and com<g ref="char:EOLhyphen"/>mand. Now which of all theſe loſt any thing by fighting! they ſure loſt leaſt that were quite knockt o'th head, and for a time loſt all in appearance.</p>
+            <p n="4">4. <hi>Fourthly, Religion</hi> adds to the Soul<g ref="char:EOLhyphen"/>dier <hi>honour and renown;</hi> And this many a one of that Profeſſion prefers to his ſafe<g ref="char:EOLhyphen"/>ty, and ſo that be preſerved untoucht, mat<g ref="char:EOLhyphen"/>ters not how he expoſes life and limbs to danger. Now there's nothing like Re<g ref="char:EOLhyphen"/>ligion advances to honour and dignity, it
+<pb n="27" facs="tcp:110150:16"/>
+makes a mans face to ſhine, and incircles his head with a glory. All the Orations and triumphs of <hi>Roman Conſuls</hi> and <hi>Di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tors,</hi> gave but a mean and trivial luſtre (like the glittering of a gloworm, or the ſhining of a piece of rotten wood in the dark) compar'd with the real and ſub<g ref="char:EOLhyphen"/>ſtantial brightneſs of them that have <hi>the</hi>
+               <note place="margin">1 Pet. 4. 14.</note> 
+               <hi>Spirit of glory, and of God reſting upon them.</hi> And of theſe two, that holds true that the Apoſtle ſaith of the Law and the Goſpel, <hi>That which was made glorious, had</hi>
+               <note place="margin">2 Cor. 3. 10.</note> 
+               <hi>no glory in this reſpect, by reaſon of a glory that excelleth. The righteous</hi> (ſaith <hi>So<g ref="char:EOLhyphen"/>lomon</hi>)<note place="margin">Prov. 12. 25.</note> 
+               <hi>is more excellent than his neighbor.</hi> And repreſenting Religion under the name of wiſdom, as a magnificent Queen, diſtributing various and ample rewards to all her train, he reckons <hi>honour,</hi> with<note place="margin">Prov. 3. 15.</note> 
+               <hi>riches</hi> to boot, as a <hi>left-hand</hi> boon and largeſs. Nay God himſelf puts in cau<g ref="char:EOLhyphen"/>tion and ſecurity (that never yet broke his <hi>parole</hi>) to advance their reputation and renown, that are careful to lift up his Praiſe, by holy practices, and (as it were)
+<pb n="28" facs="tcp:110150:17"/>
+dub them his <hi>Knight-Bannerets</hi> in the<note place="margin">1 Sam. 2. 30.</note> field, <hi>them that honour me, I will honour, and they that deſpiſe me, ſhall be lightly</hi>
+               <note place="margin">H<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 2. ult.</note> 
+               <hi>eſteemed. I will take thee O Zerubbabel my ſervant, the Son of</hi> Shealtiel, <hi>ſaith the Lord; and will make thee as a Signet, for I have choſen thee.</hi> God takes notice of his noble birth, the ſon of <hi>Shealtiel,</hi> not a Signet made of a ſhoe-buckle, but his higheſt honour was, <hi>Zerubbabel my ſervant, I will make thee as a Signet, for I have choſen thee.</hi> There is in vertue and goodneſs, that intrinſick beauty, and ami<g ref="char:EOLhyphen"/>able commanding Majeſty, that it con<g ref="char:EOLhyphen"/>quers and captivates, ſets up its trophies in the minds of obſervers, and conciliates reſpect and reverence from thoſe perſons that will not themſelves be at the trouble to practice it.</p>
+            <p n="5">5. <hi>Fifthly, Religion</hi> gives <hi>ſucceſs</hi> and an happy proſperous iſſue of affairs: No<g ref="char:EOLhyphen"/>thing doth ſo intangle and perplex an enterpriſe, and make it miſcarry in mens hands, as their ſinning againſt God, they that walk in their own wayes, <hi>Sow the wind,</hi>
+               <pb n="29" facs="tcp:110150:17"/>
+and all the crop they are like to reap thence, is the <hi>whirlwind,</hi> to blaſt and ſcat<g ref="char:EOLhyphen"/>ter all they take in hand. The <hi>Iſraelites</hi> ſin made their Carcaſſes to fall thick and threefold in the Wilderneſs, ſo that of above ſix hundred thouſand that came<note place="margin">Exod. 12. 37.</note> out of <hi>Egypt,</hi> two only, <hi>Caleb</hi> and <hi>Joſhua,</hi> ſet foot into the promiſed Land: Nay, <hi>Moſes</hi> himſelf, for his infidelity and diſ<g ref="char:EOLhyphen"/>obedience, ſtriking the rock, when God bade him but ſpeak to it, was ſhut out of <hi>Canaan,</hi> and had his <hi>Leading-ſtaff</hi> taken from him. And when God put it into <hi>Joſhua's</hi> hands, it was done with the charge in the Text, and a reaſon annexed, that affairs might thrive better under his conduct and menagery, <hi>that thou mayeſt proſper whitherſoever thou goeſt.</hi> And again, ver. 8. <hi>then ſhalt thou make thy way proſperous, and then ſhalt thou have good ſucceſs.</hi> Not but that holy and good men have been worſted, and loſt the day. It is no new thing, for Gods <hi>Iſrael</hi> to flee before accurſed <hi>Amalekites,</hi> or be led cap<g ref="char:EOLhyphen"/>tive by <hi>Babiloniſh</hi> conquerors, but it was
+<pb n="30" facs="tcp:110150:18"/>
+ſin, that <hi>accurſed thing</hi> that foyl'd and routed them, and caſting Gods Law be<g ref="char:EOLhyphen"/>hind their back, made them to turn their back before their enemies. And there is no way lies ſo fair and ſmooth to ſucceſs and victory, as for the Menagers of Marti<g ref="char:EOLhyphen"/>al affairs, by a Religious and faithful obe<g ref="char:EOLhyphen"/>dience, to engage him that is <hi>the Lord of Hoſts,</hi> in their cauſe and quarrel.</p>
+            <p n="6">6. <hi>Sixthly</hi> and Laſtly, <hi>Religion</hi> adds to the Souldier a <hi>publick and beneficial uſefulneſs,</hi> ſuch as anſwers thoſe juſt ends, for which God hath put the Sword into his hands; without which, the world perhaps would have no more cauſe to joy in the bare ſucceſs of arms, then the poor <hi>Polander</hi> at this day in the <hi>Great Turks</hi> proſperity. Neither the Civil nor the Mili<g ref="char:EOLhyphen"/>tary Sword is to be born in vain, God hath appointed the one and the other to ſet and keep the world to rights, ſo as that where the Sword of the Magiſtrate cannot enter, nor Juſtice and reaſon take place, by reaſon of mens bruitiſh luſts, &amp; ungovernable paſſi<g ref="char:EOLhyphen"/>ons, the Souldiers Sword is to cut a way for
+<pb n="31" facs="tcp:110150:18"/>
+them. The ſtate of things would, its true, be very much better'd in the world, if reaſon and equity, righteouſneſs and honeſty could obtain ſuch an uncontrolled, and univerſal Empire, as might make the Souldier uſeleſs, and <hi>beat Swords into Plow-ſhares, and Spears into Pruning-hooks;</hi> but this neither being, nor to be expected, in our corrupt degenerate ſtate, where the moſt men, like bruits, blindly and eagerly purſue a meer ſenſual intereſt; God hath made the Military Sword <hi>a whip for the Horſe, a bridle for the Aſſe, and a rod for the Fools back.</hi>
+            </p>
+            <p>Now without the ſway and influence of <hi>Religion,</hi> and a ſenſe of duty to God, this ſe<g ref="char:EOLhyphen"/>vere, boiſterous, and bloudy inſtrument can hardly be menaged to the ends of Juſtice and righteouſneſs; men would uſe it to promote their own luſts and paſſions, humours and in<g ref="char:EOLhyphen"/>tereſts, and cut and ſlaſh, only to carve the fat and large portions for themſelves; and ſo greater injury and miſchief would be done by the Sword than redreſſed; were St. <hi>John</hi>
+               <note place="margin">Luke 3. 14.</note> 
+               <hi>Baptiſts</hi> Military Lecture no part of the di<g ref="char:EOLhyphen"/>ſcipline, the world would have no diſeaſe
+<pb n="32" facs="tcp:110150:19"/>
+more fatal and deadly than this laſt remedy. When <hi>Cain</hi> took up arms without any re<g ref="char:EOLhyphen"/>ſtraints of Religion, what woful havock did he make, deſtroying one quarter of the world at a blow? And among our ſelves, not long ſince, when they had the ſword in their hands, that were Saints, without Religion, and ap<g ref="char:EOLhyphen"/>plauded themſelves in a godlineſs without righteouſneſs and honeſty, how were honours and eſtates, lives and liberties, the crown it ſelf, and the head that wore it, ſacrificed to pride and revenge, boundleſs ambition, and inſatiate avarice? I ſhould not on ſuch a day as this, bring ſorrows to remembrance, but that there is joy in thinking we are paſt them. And that they are not now the objects of ſenſe, but memory, <hi>olim meminiſſe.</hi> But on the other ſide the unbyaſſed holineſs and Reli<g ref="char:EOLhyphen"/>gious integrity of a Sword-man, makes him a publick benefit: And as a <hi>ſecond</hi> to the Prudent, faithful and conſcientious <hi>Magi<g ref="char:EOLhyphen"/>strate,</hi> the world is beholden to him for that little peace, juſtice, honeſty, and good order that are yet remaining in it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
